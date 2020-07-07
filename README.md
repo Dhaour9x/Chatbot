@@ -14,6 +14,10 @@ is to offer the user (prospective students) possible suitable courses of studies
 
 
 ## Result
+You can chat with the Bot here.
+
+https://bot.dialogflow.com/b5158d2a-9f8c-45cd-a76b-02183b419335
+
 ![](https://github.com/Dhaour9x/Chatbot/blob/master/images/chat.PNG)
 
 ## Integration into Telegram
